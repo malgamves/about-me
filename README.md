@@ -2,13 +2,13 @@
   <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200"></p>
   <h1 class="name" align="center"><span>Daniel Phiri</span></h1>
   <p class="meta-data" align="center">
-    ✨ Developer Evangelist at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
-    ✨ JavaScript hacker ✨<br/>
-    ✨ Hackathon enthusiast ✨<br/>
+    ✨ <a target="_blank" rel="noopener noreferrer" href="https://githubcampus.expert/malgamves/">GitHub Campus Expert</a> at Parul University ✨<br/>
+    ✨ Community Manager ✨<br/>
+    ✨ Python and JavaScript ✨<br/>
     ✨ Public speaker ✨
   </p>
   <p class="info-footer" align="center">
-    🥃👨‍💻🐼
+    🦖
   </p>
 </div>
 
