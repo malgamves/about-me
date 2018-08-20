@@ -35,7 +35,7 @@ You can find some of his previous talks here:
 - ✏️ [Medium Daniel Phiri](https://medium.com/@malgamves)
 - 🌐 [Website danielphiri.me](https://danielphiri.me)
 - 📷 [Instagram @malgamves](https://www.instagram.com/malgamves/)
-- 🔥 [Image](http://imgur.com/a/szhCkdm)
+- 🔥 [Official Image](http://imgur.com/a/szhCkdm)
 
 
 ## 💬 Current Talk Topics
