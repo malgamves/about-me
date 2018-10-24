@@ -1,9 +1,9 @@
 <div class="info">
-  <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200"></p>
+  <p align="center" class="header-image"><img src="https://i.imgur.com/1qPtgyn.gif" width="200"></p>
   <h1 class="name" align="center"><span>Daniel Phiri</span></h1>
   <p class="meta-data" align="center">
     ✨ <a target="_blank" rel="noopener noreferrer" href="https://githubcampus.expert/malgamves/">GitHub Campus Expert</a> at Parul University ✨<br/>
-    ✨ Community Manager ✨<br/>
+    ✨ Developer Advocate ✨<br/>
     ✨ Python and JavaScript ✨<br/>
     ✨ Public speaker ✨
   </p>
@@ -35,13 +35,15 @@ You can find some of his previous talks here:
 - ✏️ [Medium Daniel Phiri](https://medium.com/@malgamves)
 - 🌐 [Website danielphiri.me](https://danielphiri.me)
 - 📷 [Instagram @malgamves](https://www.instagram.com/malgamves/)
-- 🔥 [Official Image](http://imgur.com/a/szhCkdm)
+- 🔥 [Official Image](https://i.imgur.com/1qPtgyn.gif)
 
 
 ## 💬 Current Talk Topics
 
-- [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | JavaScript, Web Components
-- [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | JavaScript, Web Development, Security
+- [Jumping onto the JavaScript Express]() | JavaScipt
+- [Attracting attention and using Open Source Contributions to leverage your career]() | Career
+- [Community: It's a Vibe]() | Community
+
 
 ## 💻 Open Source Projects
 
