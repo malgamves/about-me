@@ -54,15 +54,15 @@ You can find some of his previous talks here:
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| [DevConZM 2018]() | Lusaka,&nbsp;za | October 17, 2018 | [Levereging Developer Communities to advance your career]() | [🖥 Slides]() |
-| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
-| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
-| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
-| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
-| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
-| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
-| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
-| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [DevConZM 2018]() | Lusaka,&nbsp;ZM | October 17, 2018 | [Levereging Developer Communities to advance your career]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;ZM | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [GDG DevFest Baroda 2018]() | Baroda,&nbsp;IN | September 30, 2018 | [Jumping onto the JavaScript Express]() | [🖥 Slides]() |
+| [GitHub Campus Expert Summit]() | San Francisco,&nbsp;US | October 18 , 2018 | [The Bigger Picture]() | [🖥 Slides]() |
+| [Tensorflow Extended]() | Bardoa,&nbsp;IN | October 10, 2018 | [Twitter Sentiment Analysis with TextBlob]() | [🖥 Slides]() |
+| [WTM Day Extended]() | Baroda,&nbsp;IN | October 10, 2018 | [We>men]() | [🖥 Slides]() |
+| [Uniphyd Meetup #2]() | Baroda,&nbsp;IN | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [DA IICT Tic Tac Toe]() | Gandhinagar,&nbsp;IN | October 10, 2018 | [Version Control with Git]() | [🖥 Slides]() |
+| []() | Lusaka,&nbsp;za | October 10, 2018 | []() | [🖥 Slides]() |
 
 
 ## ✏️ Technical Writing
