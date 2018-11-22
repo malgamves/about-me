@@ -21,11 +21,10 @@ Daniel is a Computer Science Student at Parul University, India where he also ha
 ### 🎤 Examples of Previous Talks
 
 You can find some of his previous talks here:
-- [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯ at JSHeroes](https://www.youtube.com/watch?v=sHKyMwIK9F0)
-- [Get started writing TypeScript today! at Devoxx Belgium](https://www.youtube.com/watch?v=cIzwsDcAmUM)
-- [Hybrid Appocalypse at Microsoft Technical Summit](https://channel9.msdn.com/Events/microsoft-techncial-summit/Technical-Summit-2016/Hybrid-Appocalypse-The-Web-Technology-Invasion-of-the-Desktop)
-- [2FA, WTF? at Devoxx Poland](https://www.youtube.com/watch?v=b5ZJZETkCoM)
-- [Coffee.js - How I hacked my coffee machine with JavaScript](https://www.youtube.com/watch?v=0uL8tsmS_iQ)
+- [Jumping onto the JavaScript Express at GDG DevFest Baroda]()
+- [Levereging Developer Communities to advance your career at DevConZM]()
+- [The Bigger Picture at GitHub Campus Expert Summit]()
+- [Community: It's a Vibe]()
 
 ## 👥 Social Channels
 
@@ -41,38 +40,39 @@ You can find some of his previous talks here:
 ## 💬 Current Talk Topics
 
 - [Jumping onto the JavaScript Express]() | JavaScipt
-- [Attracting attention and using Open Source Contributions to leverage your career]() | Career
+- [Levereging Developer Communities to advance your career]() | Career
 - [Community: It's a Vibe]() | Community
+- [Building a Vue Boilerplate]() | Vue and GraphQL
 
 
 ## 💻 Open Source Projects
 
-- [node-env-run](https://github.com/dkundel/node-env-run) | A `node` wrapper to automatically load environment variables from a `.env` file
-- [vscode-new-file](https://github.com/dkundel/vscode-new-file) | [VS Code](https://code.visualstudio.com) extension for a better new file dialog
-- [vscode-npm-source](https://github.com/dkundel/vscode-npm-source) | [VS Code](https://code.visualstudio.com) extension to open the documentation of a Node module in the browser
-- [htcpcp-delonghi](https://github.com/dkundel/htcpcp-delonghi) | Implementation of the [Hyper Text Coffee Pot Control Protocol](http://ietf.org/rfc/rfc2324.txt) for the DeLonghi Latissima
-- [twilio-barista](https://github.com/dkundel/twilio-barista) | A [Twilio](https://twilio.com)-powered application that is used by the Developer Evangelism team at events to allow attendees to order coffee via various Twilio-supported channels
+- [TwilioMessegingDemo](https://github.com/malgamves/TwilioMessegingDemo) | Sending UTF-8 characters with Twilios Programmable Text in C#
+
 
 ## 🗣 Past Presentations
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| [Angular Berlin #39](https://www.meetup.com/AngularJS-Meetup-Berlin/events/247484371/) | Berlin,&nbsp;🇩🇪 | February 14, 2018 | [2018 - The Year of Web Components](https://github.com/dkundel/about-me/blob/master/abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/angular-berlin-feb-18-2018-the-year-of-web-components) |
-| [JSConf Iceland '18](https://2018.jsconf.is/) | Reykjavík,&nbsp;🇮🇸 | March 1, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsconfis)<br>[📹 Video](https://www.youtube.com/watch?v=c6mqdsfWdmE) |
-| [Node.js Berlin March '18](https://www.meetup.com/Node-js-Meetup-Berlin/events/246514261) | Berlin,&nbsp;🇩🇪 | March 13, 2018 | [Hardware for Web Developers](abstracts/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/node-dot-js-berlin-march-18-hardware-hacking-for-web-developers) |
-| [JSHeroes '18](https://jsheroes.io) | Cluj-Napoca,&nbsp;🇷🇴 | April 19, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsheroes)<br>[📹 Video](https://www.youtube.com/watch?v=sHKyMwIK9F0) |
-| [JSUnconf '18](https://2018.jsunconf.eu) | Hamburg,&nbsp;🇩🇪 | April 21, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsunconf)<br>[📹 Video](https://www.youtube.com/watch?v=-vYak5hEGrY) |
-| [BerlinJS JSConf EU '18 Special](https://jsconf.berlinjs.org) | Berlin,&nbsp;🇩🇪 | May 31, 2018 | Lightning Talk about[`porgjs`](https://github.com/dkundel/porgjs) | |
-| [Angular Oslo June '18](https://www.meetup.com/AngularJS-Oslo/events/251229797/) | Oslo,&nbsp;🇳🇴 | June 12, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-ngoslo) |
-| [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 14, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-ndcoslo) |
+| [DevConZM 2018]() | Lusaka,&nbsp;za | October 17, 2018 | [Levereging Developer Communities to advance your career]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
+| [Lusaka Inspirethon]() | Lusaka,&nbsp;za | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
 
 
 ## ✏️ Technical Writing
 
 ### 🌐 Online
 
-- 🇺🇸 [Conference Monitoring á la Iron Man](https://www.twilio.com/blog/2016/05/conference-call-monitoring-twilio.html) | May 20, 2016
-- 🇺🇸 [Supercharge your Twilio API calls with Add-ons](https://www.twilio.com/blog/2016/05/supercharge-your-twilio-api-calls-with-add-ons.html) | May 24, 2016
-- 🇺🇸 [Build your own Pokemon Go SMS Service with Node.js, Express and Twilio](https://www.twilio.com/blog/2016/07/pokemon-go-sms-node-js-twilio.html) | July 29, 2016
+- 🇺🇸 [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf) | October 27, 2016
+- 🇺🇸 [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5) | October 18, 2018
+- 🇺🇸 [Quick Intro to Web Assembly](https://medium.com/sundaypyjamas/quick-intro-to-web-assembly-f3b4283e3f60) | July 10, 2018
+- 🇺🇸 [Web Assembly: Bit by Bit](https://blogs.sundaypyjamas.com/sundaypyjamas/web-assembly-bit-by-bit/) | August 20, 2018
+- 🇺🇸 [Node.js Meetup — Uniphyd.](https://medium.com/@malgamves/node-js-meetup-uniphyd-4d2c02c450ab) | Aug 19, 2018
 
 
