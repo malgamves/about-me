@@ -34,7 +34,7 @@ You can find some of his previous talks here:
 - ✏️ [Medium Daniel Phiri](https://medium.com/@malgamves)
 - 🌐 [Website danielphiri.me](https://danielphiri.me)
 - 📷 [Instagram @malgamves](https://www.instagram.com/malgamves/)
-- 🔥 [Official Image](https://i.imgur.com/1qPtgyn.gif)
+- 🔥 [Official Image](https://i.imgur.com/gfnkPIl.gif)
 
 
 ## 💬 Current Talk Topics
@@ -65,7 +65,9 @@ You can find some of his previous talks here:
 | [WTM Day Extended]() | Baroda,&nbsp;IN | March 9, 2018 | [We>men]() | [🖥 Slides]() |
 | [Uniphyd Meetup #2]() | Baroda,&nbsp;IN | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
 | [DA IICT Tic Tac Toe]() | Gandhinagar,&nbsp;IN | October 4, 2018 | [Version Control with Git]() | [🖥 Slides]() |
-| [Git for Open Source + GSoC]() | Nagpur,&nbsp;IN| Dec 15, 2018 | []() | [🖥 Slides]() |
+| [GirlScript India Summit]() | Nagpur,&nbsp;IN| Dec 15, 2018 | [Git for Open Source + GSoC]() | [🖥 Slides]() |
+| [MS Hacks]() | Jalandhar,&nbsp;IN| Sept 2, 2018 | [Git for Open Source]() | [🖥 Slides]() |
+
 
 
 ## ✏️ Technical Writing
