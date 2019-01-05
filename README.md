@@ -1,5 +1,5 @@
 <div class="info">
-  <p align="center" class="header-image"><img src="https://i.imgur.com/1qPtgyn.gif" width="200"></p>
+  <p align="center" class="header-image"><img src="https://i.imgur.com/gfnkPIl.gif" width="200"></p>
   <h1 class="name" align="center"><span>Daniel Phiri</span></h1>
   <p class="meta-data" align="center">
     ✨ <a target="_blank" rel="noopener noreferrer" href="https://githubcampus.expert/malgamves/">GitHub Campus Expert</a> at Parul University ✨<br/>
@@ -43,11 +43,14 @@ You can find some of his previous talks here:
 - [Levereging Developer Communities to advance your career]() | Career
 - [Community: It's a Vibe]() | Community
 - [Building a Vue Boilerplate]() | Vue and GraphQL
+- [Attracting the next Generation of Git Users]() | Git and Community
+- [An Introduction to Git and Version Control]() | Git 
 
 
 ## 💻 Open Source Projects
 
 - [TwilioMessegingDemo](https://github.com/malgamves/TwilioMessegingDemo) | Sending UTF-8 characters with Twilios Programmable Text in C#
+- [IsBusy]() | A Web App to keep track of your free time
 
 
 ## 🗣 Past Presentations
@@ -58,11 +61,11 @@ You can find some of his previous talks here:
 | [Lusaka Inspirethon]() | Lusaka,&nbsp;ZM | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
 | [GDG DevFest Baroda 2018]() | Baroda,&nbsp;IN | September 30, 2018 | [Jumping onto the JavaScript Express]() | [🖥 Slides]() |
 | [GitHub Campus Expert Summit]() | San Francisco,&nbsp;US | October 18 , 2018 | [The Bigger Picture]() | [🖥 Slides]() |
-| [Tensorflow Extended]() | Bardoa,&nbsp;IN | October 10, 2018 | [Twitter Sentiment Analysis with TextBlob]() | [🖥 Slides]() |
-| [WTM Day Extended]() | Baroda,&nbsp;IN | October 10, 2018 | [We>men]() | [🖥 Slides]() |
+| [Tensorflow Extended]() | Bardoa,&nbsp;IN | May 15, 2018 | [Twitter Sentiment Analysis with TextBlob]() | [🖥 Slides]() |
+| [WTM Day Extended]() | Baroda,&nbsp;IN | March 9, 2018 | [We>men]() | [🖥 Slides]() |
 | [Uniphyd Meetup #2]() | Baroda,&nbsp;IN | October 10, 2018 | [Community: It's a Vibe]() | [🖥 Slides]() |
-| [DA IICT Tic Tac Toe]() | Gandhinagar,&nbsp;IN | October 10, 2018 | [Version Control with Git]() | [🖥 Slides]() |
-| []() | Lusaka,&nbsp;za | October 10, 2018 | []() | [🖥 Slides]() |
+| [DA IICT Tic Tac Toe]() | Gandhinagar,&nbsp;IN | October 4, 2018 | [Version Control with Git]() | [🖥 Slides]() |
+| [Git for Open Source + GSoC]() | Nagpur,&nbsp;IN| Dec 15, 2018 | []() | [🖥 Slides]() |
 
 
 ## ✏️ Technical Writing
@@ -76,3 +79,8 @@ You can find some of his previous talks here:
 - 🇺🇸 [Node.js Meetup — Uniphyd.](https://medium.com/@malgamves/node-js-meetup-uniphyd-4d2c02c450ab) | Aug 19, 2018
 
 
+## 🎥Videos 
+
+### 🌐 Online
+- 🇺🇸 [Firebase to GraphQL: Migrating your Database](https://www.youtube.com/watch?v=E7fbcu2IT3k&t=21s) | Dec 14, 2018
+- 🇺🇸 [Migrations on the Hasura GraphQL Engine](https://www.youtube.com/watch?v=eWymkJ3KF6g&t=4s) | Nov 29, 2018
