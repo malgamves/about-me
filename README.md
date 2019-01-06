@@ -5,7 +5,7 @@
     ✨ <a target="_blank" rel="noopener noreferrer" href="https://githubcampus.expert/malgamves/">GitHub Campus Expert</a> at Parul University ✨<br/>
     ✨ Developer Advocate ✨<br/>
     ✨ Python and JavaScript ✨<br/>
-    ✨ Public speaker ✨
+    ✨ Speaker ✨
   </p>
   <p class="info-footer" align="center">
     🦖
@@ -86,3 +86,8 @@ You can find some of his previous talks here:
 ### 🌐 Online
 - 🇺🇸 [Firebase to GraphQL: Migrating your Database](https://www.youtube.com/watch?v=E7fbcu2IT3k&t=21s) | Dec 14, 2018
 - 🇺🇸 [Migrations on the Hasura GraphQL Engine](https://www.youtube.com/watch?v=eWymkJ3KF6g&t=4s) | Nov 29, 2018
+
+## 📻 Podcasts
+
+### 🌐 Online
+- 🇺🇸 [Building Thriving Communities](https://anchor.fm/code-cast-zm/episodes/EP5-Building-Thriving-Communities-e2m5sf) | Dec 2, 2018
