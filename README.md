@@ -29,7 +29,7 @@ You can find some of his previous talks here:
 ## 👥 Social Channels
 
 - 🐦 [Twitter @malgamves](https://twitter.com/malgamves)
-- 📧 [Email malgambes@gmail.com](mailto:malgamves@gmail.cpm)
+- 📧 [Email malgamves@gmail.com](mailto:malgamves@gmail.cpm)
 - :octocat: [GitHub malgamves](https://github.com/malgamves)
 - ✏️ [Medium Daniel Phiri](https://medium.com/@malgamves)
 - 🌐 [Website danielphiri.me](https://danielphiri.me)
@@ -90,4 +90,4 @@ You can find some of his previous talks here:
 ## 📻 Podcasts
 
 ### 🌐 Online
-- 🇺🇸 [Building Thriving Communities](https://anchor.fm/code-cast-zm/episodes/EP5-Building-Thriving-Communities-e2m5sf) | Dec 2, 2018
+- 🇺🇸 [CodeCast Zambia - Building Thriving Communities](https://anchor.fm/code-cast-zm/episodes/EP5-Building-Thriving-Communities-e2m5sf) | Dec 2, 2018
