@@ -67,6 +67,8 @@ You can find some of his previous talks here:
 | [DA IICT Tic Tac Toe]() | Gandhinagar,&nbsp;IN | October 4, 2018 | [Version Control with Git]() | [🖥 Slides]() |
 | [GirlScript India Summit]() | Nagpur,&nbsp;IN| Dec 15, 2018 | [Git for Open Source + GSoC]() | [🖥 Slides]() |
 | [MS Hacks]() | Jalandhar,&nbsp;IN| Sept 2, 2018 | [Git for Open Source]() | [🖥 Slides]() |
+| [Cyper Cup]() | Dehli,&nbsp;IN| Sept 2, 2018 | [Git & GitHub for Open Source]() | [🖥 Slides]() |
+
 
 
 
@@ -79,6 +81,8 @@ You can find some of his previous talks here:
 - 🇺🇸 [Quick Intro to Web Assembly](https://medium.com/sundaypyjamas/quick-intro-to-web-assembly-f3b4283e3f60) | July 10, 2018
 - 🇺🇸 [Web Assembly: Bit by Bit](https://blogs.sundaypyjamas.com/sundaypyjamas/web-assembly-bit-by-bit/) | August 20, 2018
 - 🇺🇸 [Node.js Meetup — Uniphyd.](https://medium.com/@malgamves/node-js-meetup-uniphyd-4d2c02c450ab) | Aug 19, 2018
+- 🇺🇸 [Hackference 2018](https://medium.com/@malgamves/hackference-india-2018-dcdc51195b1e) | Jan 10, 2019
+
 
 
 ## 🎥Videos 
