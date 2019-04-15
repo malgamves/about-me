@@ -32,7 +32,7 @@ You can find some of his previous talks here:
 - 📧 [Email malgamves@gmail.com](mailto:malgamves@gmail.cpm)
 - :octocat: [GitHub malgamves](https://github.com/malgamves)
 - ✏️ [Medium Daniel Phiri](https://medium.com/@malgamves)
-- 🌐 [Website danielphiri.me](https://danielphiri.me)
+- 🌐 [Website malgamves.dev](https://malgamves.dev)
 - 📷 [Instagram @malgamves](https://www.instagram.com/malgamves/)
 - 🔥 [Official Image](https://i.imgur.com/gfnkPIl.gif)
 
